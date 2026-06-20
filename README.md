@@ -48,10 +48,12 @@ mapa de calor:
 <img width="790" height="576" alt="image" src="https://github.com/user-attachments/assets/a61894b9-0a31-478d-a011-a3ed1a659b72" />
 
 video de funcionamiento del codigo
-<video src="assets/futbot1.mp4" width="100%" controls></video>
+
 
 https://github.com/user-attachments/assets/eb3d9cb4-c154-4625-8c3d-8f899848dda6
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/eb3d9cb4-c154-4625-8c3d-8f899848dda6" width="80%" controls autoplay loop muted></video>
+</p>
 MIT License
 
 Copyright (c) 2026 JohnatanMercadoOlmos
