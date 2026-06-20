@@ -55,9 +55,8 @@ video de funcionamiento del codigo
 
 
 
+https://github.com/user-attachments/assets/fcd20cfe-57f3-458f-83af-98fd1ebbfb28.mp4
 
-
-  <video src="https://github.com/user-attachments/assets/eb3d9cb4-c154-4625-8c3d-8f899848dda6.mp4" width="80%" controls></video>
 
 
 MIT License
