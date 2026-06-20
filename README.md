@@ -49,9 +49,11 @@ mapa de calor:
 
 video de funcionamiento del codigo
 
+https://github.com/user-attachments/assets/eb3d9cb4-c154-4625-8c3d-8f899848dda6
 
 
-https://github.com/user-attachments/assets/e9679056-d1af-431e-a694-c9f700489792
+
+
 
 
 
