@@ -47,4 +47,11 @@ mapa de calor:
 
 <img width="790" height="576" alt="image" src="https://github.com/user-attachments/assets/a61894b9-0a31-478d-a011-a3ed1a659b72" />
 
+video de funcionamiento del codigo
+
+
+
+https://github.com/user-attachments/assets/e9679056-d1af-431e-a694-c9f700489792
+
+
 
