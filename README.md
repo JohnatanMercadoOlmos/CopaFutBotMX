@@ -35,5 +35,16 @@ Hardware y Sistema operativo utilizado en las pruebas:
 Se requiere mas ram y gpu para realizar los procesos más rápido, que en este equipo se tardó en hacer las detecciones en video.  
 
 visualizaciones a la salida
-detacciones de objetos en imagen estatica para pasarlos a SAM3 y poder realizar la busqueda de los objetos en el video
+detacciones de objetos en imagen estatica para pasarlos a SAM3 y poder realizar la busqueda de los objetos en el video:
+
 <img width="547" height="989" alt="image" src="https://github.com/user-attachments/assets/f7179a5c-db4d-486a-bead-8fa72ac98575" />
+
+mapa tactico de la imagen inicial:
+
+<img width="584" height="790" alt="image" src="https://github.com/user-attachments/assets/721189ab-77c9-4dd4-ad4e-657e6399ed3a" />
+
+mapa de calor:
+
+<img width="790" height="576" alt="image" src="https://github.com/user-attachments/assets/a61894b9-0a31-478d-a011-a3ed1a659b72" />
+
+
