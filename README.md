@@ -50,10 +50,8 @@ mapa de calor:
 video de funcionamiento del codigo
 
 
-https://github.com/user-attachments/assets/eb3d9cb4-c154-4625-8c3d-8f899848dda6
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/eb3d9cb4-c154-4625-8c3d-8f899848dda6" width="80%" controls autoplay loop muted></video>
-</p>
+https://github.com/user-attachments/assets/eb3d9cb4-c154-4625-8c3d-8f899848dda6.mp4
+
 MIT License
 
 Copyright (c) 2026 JohnatanMercadoOlmos
