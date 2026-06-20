@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/c79ecab0-7196-432f-9cec-fd781d70c25f
+
 
 README del proyecto 
 
